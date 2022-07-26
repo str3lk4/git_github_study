@@ -1,2 +1,2 @@
-# git_github_study
-Repositório de utilização durante a leitura de Controlando Versões em Git e GitHub + Curso Alura.
+## Introdução, ou Explicação de Objetivos.
+Repositório criado com o objetivo de realizar operações simples de edição de repositórios.
